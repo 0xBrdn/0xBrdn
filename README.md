@@ -9,6 +9,7 @@ Building security tools, exploring systems and developing practical solutions.
 ## Selected projects
 
 <a href="https://github.com/0xBrdn/secrethound"><img src="assets/project-secrethound.svg" width="400" alt="SecretHound"/></a>
+<a href="https://github.com/0xBrdn/vulnwarden"><img src="assets/project-vulnwarden.svg" width="400" alt="VulnWarden"/></a>
 
 ---
 
@@ -21,7 +22,7 @@ Building security tools, exploring systems and developing practical solutions.
 
 ---
 
-## Tech stack
+## Tech Stack
 
 **Programming & Scripting**
 
