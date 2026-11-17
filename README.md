@@ -34,6 +34,7 @@ Building security tools, exploring systems and developing practical solutions.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" alt="C++" title="C++"/>&nbsp;
 <img src="https://cdn.simpleicons.org/rust/DEA584" width="36" alt="Rust" title="Rust"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" alt="Java" title="Java"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" alt="Go" title="Go"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" alt="Kotlin" title="Kotlin"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="36" alt="Swift" title="Swift"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" alt="PHP" title="PHP"/>&nbsp;
